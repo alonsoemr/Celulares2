@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Celulares</string>
+    <string name="ver_lista">Ver Lista</string>
+    <string-array name="unidad">
+        <item>unidad</item>
+    </string-array>
+
+    <string name="ver_marcas">Ver Marcas</string> <!--esto mmuestra opciones al ingresar un celular a comprar -->
+    <string-array name="marca">
+        <item>Samsung</item>
+        <item>Huawei</item>
+        <item>Sony</item>
+        <item>Nokia</item>
+    </string-array>
+
+    <string-array name="opciones"> <!--esto muestra el menu del ver catalogo -->
+        <item>Samsung</item>
+        <item>Sony</item>
+        <item>LG</item>
+    </string-array>
+
+</resources>
